@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title> Vijaykumar Dayama – Remote Developer/Writer/VA</title>
+  <title>[Vijaykumar Dayama] – Remote Developer/Writer</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
     body{font-family:Arial,Helvetica,sans-serif;margin:0;padding:10%;background:#f7f7f7;color:#111}
@@ -12,11 +12,11 @@
 <body>
   <h1>Hi, I'm [Vijaykumar Dayama] <span style="font-size:0.6em">(Virar, IN)</span></h1>
   <p class="tag">React • Node • Technical Writing • Customer Success</p>
-  <p>I build & write things for European teams. Available 12:00-20:00 IST (full CET overlap). Billing in EUR via Wise.</p>
+  <p>I build & write for European teams. Available 12:00-20:00 IST (full CET overlap). Billing in EUR via Wise.</p>
   <ul>
     <li><a href="https://github.com/[vdayama]" target="_blank">GitHub</a></li>
     <li><a href="https://linkedin.com/in/[vdayama]" target="_blank">LinkedIn</a></li>
-    <li><a href="mailto:vijay@dakdym.com">vijay@dakdym.com</a></li>
+    <li><a href="mailto:vdayama@dakdym.com">vdayama@dakdym.com</a></li>
   </ul>
   <h2>Latest Work</h2>
   <ul>
