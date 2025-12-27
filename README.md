@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>[Your Name] – Remote Developer/Writer/VA</title>
+  <title> Vijaykumar Dayama – Remote Developer/Writer/VA</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
     body{font-family:Arial,Helvetica,sans-serif;margin:0;padding:10%;background:#f7f7f7;color:#111}
