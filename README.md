@@ -1,13 +1,4 @@
 <!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>[Vijaykumar Dayama] – Remote Developer/Writer</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <style>
-    body{font-family:Arial,Helvetica,sans-serif;margin:0;padding:10%;background:#f7f7f7;color:#111}
-    h1{font-size:2.2em} .tag{color:#0066cc} a{color:#0066cc;text-decoration:none}
-  </style>
 </head>
 <body>
   <h1>Hi, I'm [Vijaykumar Dayama] <span style="font-size:0.6em">(Virar, IN)</span></h1>
