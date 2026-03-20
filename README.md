@@ -1,4 +1,3 @@
-<!doctype html>
 </head>
 <body>
   <h1>Hi, I'm [Vijaykumar Dayama] <span style="font-size:0.6em">(Virar, IN)</span></h1>
